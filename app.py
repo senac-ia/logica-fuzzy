@@ -14,8 +14,6 @@ tip = ctrl.Consequent(np.arange(0, 25, 1), 'gorjeta')
 names = ['ruim', "medio", "bom"]
 quality.automf(names=names)
 service.automf(names=names)
-#quality.automf(3)
-#service.automf(3)
 
 # Custom membership functions can be built interactively with a familiar,
 # Pythonic API
