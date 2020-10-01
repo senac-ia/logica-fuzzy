@@ -1,3 +1,5 @@
+# exemplo retirado de
+# https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
